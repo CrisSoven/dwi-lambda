@@ -1,7 +1,7 @@
 import json
 
 
-def lambda_handler(event, __):
+def lambda_handler(event):
     print(event)
     """Sample pure Lambda function
 
